@@ -13,7 +13,7 @@ These are shown in full in the next few sectinons:
 
 ### 2021 system diagram
 this was the year i officially became lead, and had to redesign the entire system to meet our new ruleset
-![block diagram timeline](assets/2021.png)
+![block diagram timeline](assets/2021_systems.png)
 
 ### 2022 system diagram
 if you care, you can read my design report [here](https://docs.google.com/document/d/1vLW5fpvkG754h425S2lcKjFMK5De6ywy3ep6ixqs3A4/edit) 
@@ -23,8 +23,8 @@ if you care, you can read my design report [here](https://docs.google.com/docume
 
 ### 2023 system diagram
 at the time of writing this, we are just beginning the 2023 design cycle. exciting things to come :) 
-![block diagram timeline](assets/2023_system.png)
-![block diagram timeline](assets/2023_verbose.png)
+![block diagram timeline](assets/2023_systems.png)
+![block diagram timeline](assets/2023_verbose.jpg)
 
 ### other stuff i did
 aside from my role as technical lead or whatever, i've done my fair share of technical work, including:
@@ -47,3 +47,11 @@ aside from my role as technical lead or whatever, i've done my fair share of tec
 #### random pics
 i didn't take good pictures for most of this, it takes way longer to make things look good. i prioritize for making things work > making things fast > making things pretty. here are some of the pictures i could find: 
 
+![blah](assets/drop_simulation.png)
+![blah](assets/flying.jpg)
+![blah](assets/gimbal.jpg)
+![blah](assets/hack_board.jpg)
+![blah](assets/scuffed_drone.jpg)
+![blah](assets/x_debug_2.png)
+![blah](assets/x_debug_4.png)
+![blah](assets/yolo_training.png)
