@@ -13,7 +13,7 @@ These are shown in full in the next few sectinons:
 
 ### 2021 system diagram
 this was the year i officially became lead, and had to redesign the entire system to meet our new ruleset
-![block diagram timeline](assets/2021_systems.png)
+![block diagram timeline](assets/2021_system.png)
 
 ### 2022 system diagram
 if you care, you can read my design report [here](https://docs.google.com/document/d/1vLW5fpvkG754h425S2lcKjFMK5De6ywy3ep6ixqs3A4/edit) 
@@ -48,10 +48,12 @@ aside from my role as technical lead or whatever, i've done my fair share of tec
 i didn't take good pictures for most of this, it takes way longer to make things look good. i prioritize for making things work > making things fast > making things pretty. here are some of the pictures i could find: 
 
 ![blah](assets/drop_simulation.png)
+![blah](assets/sensor_board.png)
 ![blah](assets/flying.jpg)
 ![blah](assets/gimbal.jpg)
 ![blah](assets/hack_board.jpg)
 ![blah](assets/scuffed_drone.jpg)
 ![blah](assets/x_debug_2.png)
+![blah](assets/pdb.png)
 ![blah](assets/x_debug_4.png)
 ![blah](assets/yolo_training.png)
