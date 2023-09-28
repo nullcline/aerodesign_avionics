@@ -47,6 +47,8 @@ aside from my role as technical lead or whatever, i've done my fair share of tec
 #### random pics
 i didn't take good pictures for most of this, it takes way longer to make things look good. i prioritize for making things work > making things fast > making things pretty. here are some of the pictures i could find: 
 
+![blah](assets/plane.png)
+![blah](assets/win.jpg)
 ![blah](assets/drop_simulation.png)
 ![blah](assets/sensor_board.png)
 ![blah](assets/flying.jpg)
